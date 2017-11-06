@@ -1,6 +1,19 @@
 # ann
-Simple and manually written artificial neural network for recognition of emotions of drawn faces
+Simple and manually written artificial neural network for recognition of emotions of drawn faces.
 
+Written in Python with NumPy library.
+
+Divides training images to 2 parts:
+1. Training set - 70%
+2. Testing set - 30%
+
+Number of layers: 2
+
+Doesn't use back propagation.
+
+Stopping criteria for learning: precision (percentage of properly predicted) should be greater than 68%
+
+## Data
 Detects 4 emotion of drawn faces:
 1. Happy
 2. Sad

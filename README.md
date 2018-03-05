@@ -20,7 +20,7 @@ Detects 4 emotion of drawn faces:
 3. Mischievous 
 4. Mad
 
-![Faces](https://1.downloader.disk.yandex.ru/disk/670e20928eda62ada28464d7cef0bd7fc88160dac9526010369d3329efc7e51a/5a0093bb/oo4-nujJDR2caQgt6q-lZN25F9OZShIujfIcdw4fJzhj0g40TofFQD4hQ6d3PrCvK1rrr7R9Vrg2g0gyKsNfhA%3D%3D?uid=0&filename=faces.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&fsize=20422&hid=488b2a07aefd49ed93c98a5d316dc6d7&media_type=image&tknv=v2&etag=e129d6907af6b9357e8637c88afdbbf4)
+![Faces](https://image.ibb.co/hB6ATS/faces.png)
 
 Input image is 20x20 pixels with 32 degrees of grey level from white to black.
 
